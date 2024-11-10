@@ -59,7 +59,7 @@
               <strong>Innovator Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Hack-Web3Conf 2024 Badge (2).png" alt="web3Hack Badge" width="80" />
+              <img src="web3hack".png" alt="web3Hack Badge" width="80" />
               <br>
               <strong>Web3Hack Badge</strong>
             </td>
