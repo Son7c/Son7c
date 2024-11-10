@@ -40,6 +40,12 @@
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
+            <!-- New column spanning both rows for "Conqueror Badge" -->
+            <td style="padding: 10px; border-left: 1px solid #dddddd;" width="100" rowspan="2">
+              <img src="conqueror_badge.png" alt="Conqueror Badge" width="80" />
+              <br>
+              <strong>Conqueror Badge</strong>
+            </td>
           </tr>
           <tr align="center" style="height: 100%;">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
@@ -57,7 +63,7 @@
               <br>
               <strong>Web3Hack Badge</strong>
             </td>
-            <td style="padding: 10px; height: 100%;" width="100">
+            <td style="padding: 10px;" width="100">
               <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
               <br>
               <strong>API Student Expert</strong>
