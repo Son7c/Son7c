@@ -42,9 +42,9 @@
             </td>
             <!-- New column spanning both rows for "Conqueror Badge" -->
             <td style="padding: 10px; border-left: 1px solid #dddddd;" width="100" rowspan="2">
-              <img src="conqueror_badge.png" alt="Conqueror Badge" width="80" />
+              <img src="conqueror_badge.png" alt="Conqurer Badge" width="80" />
               <br>
-              <strong>Conqueror Badge</strong>
+              <strong>Conqurer Badge</strong>
             </td>
           </tr>
           <tr align="center" style="height: 100%;">
