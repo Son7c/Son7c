@@ -10,13 +10,13 @@
           <strong>GirlScript Summer of Code Extend</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 48th</span>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 27th</span>
         <br>
         <span style="font-size: 12px; color: #777777;">
 	  Out of 32000+ participants<br>
-          PRs Merged: 69 <br>
-          Total Badges: 7<br>
-          Total Score: 2160<br>
+          PRs Merged: 86 <br>
+          Total Badges: 9<br>
+          Total Score: 3040<br>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
@@ -60,6 +60,13 @@
               <strong>Web3Hack Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
+              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <br>
+              <strong>API Student Expert</strong>
+              <br>
+              <span style="font-size: 12px; color: #777777;">Postman</span>
+            </td>
+		<td style="padding: 10px;" width="100">
               <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
               <br>
               <strong>API Student Expert</strong>
