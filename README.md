@@ -66,7 +66,7 @@
               <br>
               <span style="font-size: 12px; color: #777777;">Postman</span>
             </td>
-		<td style="padding: 10px;" width="100">
+		<td style="padding: 10px;" width="100"; "height:100%">
               <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
               <br>
               <strong>API Student Expert</strong>
