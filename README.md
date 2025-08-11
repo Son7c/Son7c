@@ -1,5 +1,5 @@
 # 💫 About Me:
-1st Year CS Student | Open Source Contributor<br><br>🎓B.Tech in Computer Science at Asansol Engineering College.<br><br>💡Skills: C, HTML, CSS, Python, Java, Web Development.<br><br>🔍Interests:AI, Full-Stack Development, Game Development.
+2nd Year CS Student | Open Source Contributor<br><br>🎓B.Tech in Computer Science at Asansol Engineering College.<br><br>💡Skills: C, HTML, CSS, Python, Java, Web Development.<br><br>🔍Interests:AI, Full-Stack Development, Game Development.
 
 
 ## 🌐 Socials:
@@ -101,3 +101,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=son7c&icon=0&color=0)](https://visitcount.itsvg.in)
+
